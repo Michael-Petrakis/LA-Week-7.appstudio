@@ -23,6 +23,14 @@
           "!type": "External",
           "file": [
             "forms",
+            "Select",
+            "Select.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
             "Form1",
             "Form1.json"
           ]
@@ -47,7 +55,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "Form1",
+      "firstform": "Select",
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
       "googlePlayTrack": "production",
