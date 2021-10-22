@@ -1,14 +1,18 @@
+deleteCustomer.onshow=function(){
+  txtTypeNames_contents.style.height = "200px"
+}
 
-  /*
  deleteButton.onclick=function(){
   let query = "SELECT * FROM customer"
   req = Ajax("https://ormond.creighton.edu/courses/375/ajax-connection.php", "POST", "host=ormond.creighton.edu&user=" + netID + "&pass=" + pw + "&database=" + netID + "&query=" + query)
   results = JSON.parse(req.responseText)
-  let message = results[0] + "<br />" + results[1] + "<br />" + results[2] + "<br />" + results[3] + "<br />" + results[4] 
+  message = ""
+  for (i = 0; i < results.length; i++)
+    message = message + "<br />" + results[i][1]
   deleteLabel.innerHTML = message
 } 
   
-  /*
+/*
   deleteCustomer = inptCustomer.value
   deleteCustomer = deleteCustomer.toLowerCase()
   if (deleteCustomer == 
@@ -33,3 +37,7 @@ buttonToDelete.onclick=function(){
             found = true
 }
 */
+
+deleteCustomer.onshow=function(){
+  
+}
