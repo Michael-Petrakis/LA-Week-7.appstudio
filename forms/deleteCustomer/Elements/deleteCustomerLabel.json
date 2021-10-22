@@ -19,7 +19,7 @@
   "hidden": "",
   "id": "deleteCustomerLabel",
   "labelStyle": "text",
-  "left": 30,
+  "left": 188,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -42,7 +42,7 @@
   "right": "auto",
   "script": "",
   "style": "",
-  "top": 313,
-  "value": "Label",
+  "top": 108,
+  "value": "",
   "width": "auto"
 }

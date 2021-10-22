@@ -1,6 +1,10 @@
+<<<<<<< Updated upstream
 
   /*
  deleteButton.onclick=function(){
+=======
+deleteButton.onclick=function(){
+>>>>>>> Stashed changes
   let query = "SELECT * FROM customer"
   req = Ajax("https://ormond.creighton.edu/courses/375/ajax-connection.php", "POST", "host=ormond.creighton.edu&user=" + netID + "&pass=" + pw + "&database=" + netID + "&query=" + query)
   results = JSON.parse(req.responseText)
@@ -19,17 +23,31 @@
 Button1.onclick=function(){
   
 }
-
+*/
 
 buttonToDelete.onclick=function(){
-    let found = false
+    found = false
     let customerDelete = inptDelete.value
     let query = "SELECT * FROM customer"   
     req = Ajax("https://ormond.creighton.edu/courses/375/ajax-connection.php", "POST", "host=ormond.creighton.edu&user=" + netID + "&pass=" + pw + "&database=" + netID + "&query=" + query)
     results = JSON.parse(req.responseText)
     for (i = 0; i <= results.length - 1; i++) {
-       deleteCustomerLabel = (` results[i] is ${results[i]}`)
-       if (customerDelete == results[i])
+       console.log(`In array is ${results[i][1]}`)
+       if (customerDelete == results[i][1]) 
             found = true
+            }
+    console.log(`found is ${found}`)
+    if (found == false) 
+       deleteCustomerLabel.textContent = "That customer is not in the database."
+    else if (found == true) {
+      query = "DELETE FROM customer WHERE name = " + '"' + customerDelete + '"'
+       req = Ajax("https://ormond.creighton.edu/courses/375/ajax-connection.php", "POST", "host=ormond.creighton.edu&user=" + netID + "&pass=" + pw + "&database=" + netID + "&query=" + query)     
+       deleteCustomerLabel.textContent = "Customer was successfully deleted, press 'Show Customer' button to see updated list. "
+            }
+      
 }
+<<<<<<< Updated upstream
 */
+=======
+
+>>>>>>> Stashed changes

@@ -29,7 +29,7 @@
   "icon": "",
   "iconTitle": "",
   "id": "deleteButton",
-  "left": 15,
+  "left": 193,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -60,7 +60,7 @@
   "size": " btn-md",
   "style": "",
   "toggleControl": "",
-  "top": 19,
-  "value": "Button",
+  "top": 385,
+  "value": "Show Customer",
   "width": "auto"
 }
