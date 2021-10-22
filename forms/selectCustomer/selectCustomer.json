@@ -14,7 +14,7 @@
       "!type": "External",
       "file": [
         "forms",
-        "Select",
+        "selectCustomer",
         "Elements",
         "selectButton.json"
       ]
@@ -23,7 +23,7 @@
       "!type": "External",
       "file": [
         "forms",
-        "Select",
+        "selectCustomer",
         "Elements",
         "selectLabel.json"
       ]
@@ -35,7 +35,7 @@
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": 460,
-  "id": "Select",
+  "id": "selectCustomer",
   "language": "JavaScript",
   "left": "0",
   "locked": false,
