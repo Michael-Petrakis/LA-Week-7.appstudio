@@ -1,5 +1,5 @@
 
-  
+  /*
  deleteButton.onclick=function(){
   let query = "SELECT * FROM customer"
   req = Ajax("https://ormond.creighton.edu/courses/375/ajax-connection.php", "POST", "host=ormond.creighton.edu&user=" + netID + "&pass=" + pw + "&database=" + netID + "&query=" + query)
@@ -19,7 +19,8 @@
 Button1.onclick=function(){
   
 }
-*/
+
+
 buttonToDelete.onclick=function(){
     let found = false
     let customerDelete = inptDelete.value
@@ -31,3 +32,4 @@ buttonToDelete.onclick=function(){
        if (customerDelete == results[i])
             found = true
 }
+*/
