@@ -19,7 +19,18 @@
   "hidden": "",
   "id": "deleteLabel",
   "labelStyle": "text",
+
   "left": 13,
+=======
+
+  "left": 13,
+=======
+
+  "left": 13,
+=======
+  "left": 17,
+
+
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -42,7 +53,19 @@
   "right": "auto",
   "script": "",
   "style": "",
+
   "top": 160,
+=======
+
+  "top": 160,
+=======
+
+  "top": 160,
+=======
+  "top": 66,
+
+
+
   "value": "",
   "width": 190
 }

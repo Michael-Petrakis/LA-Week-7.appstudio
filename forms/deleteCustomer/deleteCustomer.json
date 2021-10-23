@@ -61,7 +61,19 @@
   "designWidth": 0,
   "expanded_pmp": null,
   "fullScreen": "true",
+
   "height": "700",
+=======
+
+  "height": "700",
+=======
+
+  "height": "700",
+=======
+  "height": 460,
+
+
+
   "id": "deleteCustomer",
   "language": "JavaScript",
   "left": "0",
@@ -70,7 +82,19 @@
   "onhide": "",
   "onkeypress": "",
   "onresize": "",
+
   "onshow": "deleteCustomer.onshow()",
+=======
+
+  "onshow": "deleteCustomer.onshow()",
+=======
+
+  "onshow": "",
+=======
+  "onshow": "deleteCustomer.onshow()",
+
+
+
   "openMode": "none",
   "parentForm": "",
   "position": "absolute",
@@ -79,5 +103,17 @@
   "style": "",
   "theme": "",
   "top": "0",
+
   "width": "600"
+=======
+
+  "width": "600"
+=======
+
+  "width": "600"
+=======
+  "width": 320
+
+
+
 }

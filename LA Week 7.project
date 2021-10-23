@@ -23,8 +23,23 @@
           "!type": "External",
           "file": [
             "forms",
+
             "selectCustomer",
             "selectCustomer.json"
+=======
+
+            "selectCustomer",
+            "selectCustomer.json"
+=======
+
+            "Select",
+            "Select.json"
+
+            "selectCustomer",
+            "selectCustomer.json"
+
+
+
           ]
         },
         {
@@ -33,6 +48,10 @@
             "forms",
             "deleteCustomer",
             "deleteCustomer.json"
+
+=======
+
+
           ]
         },
         {
@@ -41,6 +60,7 @@
             "forms",
             "customerAdd",
             "customerAdd.json"
+
           ]
         },
         {
@@ -49,6 +69,10 @@
             "forms",
             "customerUpdate",
             "customerUpdate.json"
+=======
+=======
+
+
           ]
         }
       ],
@@ -71,7 +95,15 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
+
       "firstform": "customerUpdate",
+=======
+
+      "firstform": "customerAdd",
+=======
+
+
+
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
       "googlePlayTrack": "production",

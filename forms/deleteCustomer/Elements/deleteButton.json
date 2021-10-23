@@ -29,7 +29,18 @@
   "icon": "",
   "iconTitle": "",
   "id": "deleteButton",
+
   "left": 193,
+=======
+
+  "left": 193,
+=======
+
+  "left": 193,
+=======
+  "left": 15,
+
+
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -60,7 +71,22 @@
   "size": " btn-md",
   "style": "",
   "toggleControl": "",
+
   "top": 385,
   "value": "Show Customer",
+=======
+
+  "top": 385,
+  "value": "Show Customer",
+=======
+
+  "top": 385,
+  "value": "Show Customer",
+=======
+  "top": 19,
+  "value": "Button",
+
+
+
   "width": "auto"
 }
