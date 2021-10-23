@@ -14,45 +14,72 @@
       "!type": "External",
       "file": [
         "forms",
-        "deleteCustomer",
+        "customerAdd",
         "Elements",
-        "deleteButton.json"
+        "btnShowCustomerAdd.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "deleteCustomer",
+        "customerAdd",
         "Elements",
-        "deleteLabel.json"
+        "lblShowCustomerAdd.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "deleteCustomer",
+        "customerAdd",
         "Elements",
-        "inptDelete.json"
+        "inptAddCustomer.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "deleteCustomer",
+        "customerAdd",
         "Elements",
-        "buttonToDelete.json"
+        "btnAddCustomer.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "deleteCustomer",
+        "customerAdd",
         "Elements",
-        "deleteCustomerLabel.json"
+        "inptCustomerAddress.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "customerAdd",
+        "Elements",
+        "inptCustomerState.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "customerAdd",
+        "Elements",
+        "inptCustomerZip.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "customerAdd",
+        "Elements",
+        "inptCustomerCity.json"
       ]
     }
   ],
@@ -61,16 +88,8 @@
   "designWidth": 0,
   "expanded_pmp": null,
   "fullScreen": "true",
-
-  "height": "700",
-=======
-
-  "height": "700",
-=======
   "height": 460,
-
-
-  "id": "deleteCustomer",
+  "id": "customerAdd",
   "language": "JavaScript",
   "left": "0",
   "locked": false,
@@ -78,15 +97,7 @@
   "onhide": "",
   "onkeypress": "",
   "onresize": "",
-
-  "onshow": "deleteCustomer.onshow()",
-=======
-
   "onshow": "",
-=======
-  "onshow": "deleteCustomer.onshow()",
-
-
   "openMode": "none",
   "parentForm": "",
   "position": "absolute",
@@ -95,13 +106,5 @@
   "style": "",
   "theme": "",
   "top": "0",
-
-  "width": "600"
-=======
-
-  "width": "600"
-=======
   "width": 320
-
-
 }

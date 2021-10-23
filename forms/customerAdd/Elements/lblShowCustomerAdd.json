@@ -15,18 +15,11 @@
   "fontSize": "",
   "fontStyle": "",
   "fontWeight": "",
-  "height": 18,
+  "height": 27,
   "hidden": "",
-  "id": "deleteLabel",
+  "id": "lblShowCustomerAdd",
   "labelStyle": "text",
-
-  "left": 13,
-=======
-
-  "left": 13,
-=======
-  "left": 17,
-
+  "left": 14,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -49,15 +42,7 @@
   "right": "auto",
   "script": "",
   "style": "",
-
-  "top": 160,
-=======
-
-  "top": 160,
-=======
-  "top": 66,
-
-
-  "value": "",
-  "width": 190
+  "top": 253,
+  "value": "test ",
+  "width": 140
 }
