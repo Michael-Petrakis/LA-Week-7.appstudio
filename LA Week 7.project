@@ -28,11 +28,16 @@
             "selectCustomer.json"
 =======
 
+            "selectCustomer",
+            "selectCustomer.json"
+=======
+
             "Select",
             "Select.json"
 
             "selectCustomer",
             "selectCustomer.json"
+
 
 
           ]
@@ -44,6 +49,9 @@
             "deleteCustomer",
             "deleteCustomer.json"
 
+=======
+
+
           ]
         },
         {
@@ -52,7 +60,18 @@
             "forms",
             "customerAdd",
             "customerAdd.json"
+
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "customerUpdate",
+            "customerUpdate.json"
 =======
+=======
+
 
           ]
         }
@@ -77,8 +96,12 @@
       "expanded_pmp": null,
       "extraheaders": null,
 
+      "firstform": "customerUpdate",
+=======
+
       "firstform": "customerAdd",
 =======
+
 
 
       "fontFamily": "system",

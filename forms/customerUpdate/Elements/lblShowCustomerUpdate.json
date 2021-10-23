@@ -17,21 +17,9 @@
   "fontWeight": "",
   "height": "auto",
   "hidden": "",
-  "id": "deleteCustomerLabel",
+  "id": "lblShowCustomerUpdate",
   "labelStyle": "text",
-
-  "left": 188,
-=======
-
-  "left": 188,
-=======
-
-  "left": 188,
-=======
-  "left": 30,
-
-
-
+  "left": 19,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -54,22 +42,7 @@
   "right": "auto",
   "script": "",
   "style": "",
-
-  "top": 108,
+  "top": 208,
   "value": "",
-=======
-
-  "top": 108,
-  "value": "",
-=======
-
-  "top": 108,
-  "value": "",
-=======
-  "top": 313,
-  "value": "Label",
-
-
-
-  "width": "auto"
+  "width": 147
 }

@@ -35,6 +35,9 @@
 
   "left": 193,
 =======
+
+  "left": 193,
+=======
   "left": 15,
 
 
@@ -76,8 +79,13 @@
   "top": 385,
   "value": "Show Customer",
 =======
+
+  "top": 385,
+  "value": "Show Customer",
+=======
   "top": 19,
   "value": "Button",
+
 
 
   "width": "auto"

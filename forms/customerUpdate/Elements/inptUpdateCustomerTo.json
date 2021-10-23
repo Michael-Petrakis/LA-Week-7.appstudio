@@ -29,22 +29,10 @@
   "hidden": "",
   "icon": "",
   "iconTitle": "",
-  "id": "inptDelete",
+  "id": "inptUpdateCustomerTo",
   "inputType": "text",
   "inputmode": "",
-
-  "left": 9,
-=======
-
-  "left": 9,
-=======
-
-  "left": 9,
-=======
-  "left": 18,
-
-
-
+  "left": 15,
   "leftText": "",
   "mAll": "",
   "mBottom": "",
@@ -80,18 +68,7 @@
   "pRight": "",
   "pTop": "",
   "passwordToggle": "",
-
-  "placeholder": "Enter Customer Name",
-=======
-
-  "placeholder": "Enter Customer Name",
-=======
-
-  "placeholder": "Enter Customer Name",
-=======
-  "placeholder": "Enter text here",
-
-
+  "placeholder": "Enter New Customer Name",
   "popBody": "Body",
   "popClose": "hover",
   "popPosition": "",
@@ -106,21 +83,9 @@
   "spellcheck": "true",
   "step": "",
   "style": "",
-
-  "top": 12,
-=======
-
-  "top": 12,
-=======
-
-  "top": 12,
-=======
-  "top": 186,
-
-
-
+  "top": 62,
   "validation": "",
   "value": "",
   "valueCols": 10,
-  "width": "auto"
+  "width": 285
 }
