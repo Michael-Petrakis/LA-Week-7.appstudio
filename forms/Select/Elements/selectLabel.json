@@ -15,18 +15,11 @@
   "fontSize": "",
   "fontStyle": "",
   "fontWeight": "",
-  "height": 18,
+  "height": "auto",
   "hidden": "",
-  "id": "deleteLabel",
+  "id": "selectLabel",
   "labelStyle": "text",
-
-  "left": 13,
-=======
-
-  "left": 13,
-=======
-  "left": 17,
-
+  "left": 52,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -49,15 +42,7 @@
   "right": "auto",
   "script": "",
   "style": "",
-
-  "top": 160,
-=======
-
-  "top": 160,
-=======
-  "top": 66,
-
-
+  "top": 288,
   "value": "",
-  "width": 190
+  "width": 237
 }

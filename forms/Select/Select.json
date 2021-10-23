@@ -14,45 +14,18 @@
       "!type": "External",
       "file": [
         "forms",
-        "deleteCustomer",
+        "Select",
         "Elements",
-        "deleteButton.json"
+        "selectButton.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "deleteCustomer",
+        "Select",
         "Elements",
-        "deleteLabel.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "deleteCustomer",
-        "Elements",
-        "inptDelete.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "deleteCustomer",
-        "Elements",
-        "buttonToDelete.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "deleteCustomer",
-        "Elements",
-        "deleteCustomerLabel.json"
+        "selectLabel.json"
       ]
     }
   ],
@@ -61,16 +34,8 @@
   "designWidth": 0,
   "expanded_pmp": null,
   "fullScreen": "true",
-
-  "height": "700",
-=======
-
-  "height": "700",
-=======
   "height": 460,
-
-
-  "id": "deleteCustomer",
+  "id": "Select",
   "language": "JavaScript",
   "left": "0",
   "locked": false,
@@ -78,15 +43,7 @@
   "onhide": "",
   "onkeypress": "",
   "onresize": "",
-
-  "onshow": "deleteCustomer.onshow()",
-=======
-
   "onshow": "",
-=======
-  "onshow": "deleteCustomer.onshow()",
-
-
   "openMode": "none",
   "parentForm": "",
   "position": "absolute",
@@ -95,13 +52,5 @@
   "style": "",
   "theme": "",
   "top": "0",
-
-  "width": "600"
-=======
-
-  "width": "600"
-=======
   "width": 320
-
-
 }
