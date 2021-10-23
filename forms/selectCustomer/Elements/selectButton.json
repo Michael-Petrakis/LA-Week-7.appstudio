@@ -28,18 +28,14 @@
   "hidden": "",
   "icon": "",
   "iconTitle": "",
-  "id": "deleteButton",
-
-  "left": 193,
-=======
-  "left": 15,
-
+  "id": "selectButton",
+  "left": 117,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
   "mRight": "",
   "mTop": "",
-  "onclick": "Button1.onclick()",
+  "onclick": "selectButton.onclick()",
   "onmousedown": "",
   "onmousemove": "",
   "onmouseout": "",
@@ -64,12 +60,7 @@
   "size": " btn-md",
   "style": "",
   "toggleControl": "",
-
-  "top": 385,
-  "value": "Show Customer",
-=======
-  "top": 19,
-  "value": "Button",
-
+  "top": 156,
+  "value": "Submit",
   "width": "auto"
 }

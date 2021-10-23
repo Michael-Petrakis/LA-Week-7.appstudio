@@ -29,7 +29,11 @@
   "icon": "",
   "iconTitle": "",
   "id": "buttonToDelete",
+
   "left": 11,
+=======
+  "left": 24,
+
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -60,7 +64,12 @@
   "size": " btn-md",
   "style": "",
   "toggleControl": "",
+
   "top": 60,
   "value": "Delete Customer",
+=======
+  "top": 249,
+  "value": "Button",
+
   "width": "auto"
 }
